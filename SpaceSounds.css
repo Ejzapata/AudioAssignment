@@ -1,0 +1,17 @@
+/* Eleni Zapata*/
+
+/* These are my customizations for body*/
+body
+ {
+background-image:radial-gradient();
+
+
+}
+/* These are my customizations for h1*/
+h1
+{
+text-align: center;
+text-size-adjust: 100px;
+text-emphasis: 100px;
+
+}
